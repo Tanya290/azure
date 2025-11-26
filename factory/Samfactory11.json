@@ -1,0 +1,9 @@
+{
+	"name": "Samfactory11",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "805a0260-18ff-43c3-b29c-6b13c0f53708",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
